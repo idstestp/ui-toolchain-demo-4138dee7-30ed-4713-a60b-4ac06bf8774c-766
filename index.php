@@ -85,13 +85,13 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Jmeter updated at 1 1465981664450</title>
+	<title>Updated by JMeter Sample</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
 <table class="headerTable">
 	<tr>
-		<td><span class="pageTitle"><h1>Jmeter updated at 1 1465981664450</h1></span></td> 
+		<td><span class="pageTitle"><h1>Microservices Sample : Updated by JMeter: 932</h1></span></td> 
 	</tr>
 </table>
 <body onload="loadItems(items)">
